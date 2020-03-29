@@ -1,0 +1,2 @@
+start end qual
+1 6077  20
